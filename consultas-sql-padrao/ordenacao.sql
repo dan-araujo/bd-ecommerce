@@ -1,0 +1,1 @@
+select nome, preco from produtos order by preco desc;
