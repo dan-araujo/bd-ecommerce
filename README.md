@@ -43,7 +43,7 @@ O modelo foi estruturado em **entidades principais** e **entidades associativas 
 
 O diagrama abaixo representa a estrutura lógica do banco de dados, com as entidades, chaves-primárias, chaves-estrangeiras e relacionamentos definidos:
 
- 📎**Arquivo:** `Diagrama Entidade-Relacionamento (EER).png` 
+ 📎**Arquivo:** `Diagrama Entidade-Relacionamento Aprimorado (EER).png` 
  ![Modelo EER](./Diagrama%20Entidade-Relacionamento%20Estendido%20(EER).png)
 
  > Esse modelo segue a filosofia **EER (Entidade-Relacionamento Aprimorado)**, incorporando entidades associativas, atributos derivados, restrições (`CHECK`, `DEFAULT`, `ENUM`), e mapeamento direto para o modelo físico relacional.
